@@ -158,7 +158,7 @@ export default {
     },
     // 调取图片和导航数据
     getUrlImg: function() {
-      this.$axios.get(`/swiper_navs.json`).then(res => {
+      this.$axios.get(`swiper_navs.json`).then(res => {
         // console.log(res.data);
         this.navList = res.data.NavsList;
         this.navSwiperlistxiju = res.data.Swiper;
