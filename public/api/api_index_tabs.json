@@ -1,0 +1,128 @@
+{
+    "states": 200,
+    "data": [{
+            "id": 0,
+            "tabs": "演唱会",
+            "name": "name1",
+            "main": [{
+                "img": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01a89g5r2GdSDs44jUJ_!!2251059038.jpg",
+                "text": "【呼和浩特】2020任贤齐“齐迹”巡回演唱会 呼和浩特站",
+                "piaojia": 399,
+                "seen": false,
+                "riqi": "2020.08.01 周六 19:30",
+                "dizhi": "呼和浩特市 | 内蒙古体育馆",
+                "shuxing1": "【呼和浩特】2020任贤齐",
+                "shuxing2": "呼和浩特市 | 内蒙古体育馆"
+            }, {
+                "img": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01l8LToq2GdSEmSQi2W_!!2251059038.png",
+                "text": "【长沙】【演出延期】一呼万应！失踪人口专场",
+                "piaojia": 70,
+                "seen": false,
+                "riqi": "2020.06.27 周六 20:30",
+                "dizhi": "长沙市 | MAO Livehouse长沙",
+                "shuxing1": "【长沙】【演出延期】一呼万应！失踪人口专场",
+                "shuxing2": "长沙市 | MAO Livehouse长沙"
+
+            }, {
+                "img": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01PVB2712GdSE9RDgYr_!!2251059038.png",
+                "text": "【西安】2020.9.5赤世代 I Need You 演唱会 Live In XI’AN",
+                "piaojia": 180,
+                "seen": false,
+                "riqi": "2020.09.05 周六",
+                "dizhi": "西安市 | 西演LIVE·光圈CLUB ",
+                "shuxing1": "【西安】2020.9.5赤世代 I Need You 演唱会 Live In XI’AN",
+                "shuxing2": "西安市 | 西演LIVE·光圈CLUB "
+            }, {
+                "img": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01D5PAMm2GdSEeUIgWO_!!0-item_pic.jpg",
+                "text": "【深圳】曹轩宾「我」2020年巡回演唱会 深圳站",
+                "piaojia": 150,
+                "seen": false,
+                "riqi": "2020.09.25 周五 20:30",
+                "dizhi": "深圳市 | 深圳 HOU LIVE",
+                "shuxing1": "【深圳】曹轩宾「我」2020年巡回演唱会 深圳站",
+                "shuxing2": "深圳市 | 深圳 HOU LIVE"
+            }, {
+                "img": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01CF298x2GdSEeKWT0o_!!0-item_pic.jpg",
+                "text": "GREEN DAY – LIVE IN HONG KONG, CHINA 2021",
+                "piaojia": 588,
+                "seen": false,
+                "riqi": "2021.03.19 周五 20:00",
+                "dizhi": "中国香港 | 亚洲国际博览馆 ",
+                "shuxing1": "GREEN DAY – LIVE IN HONG KONG, CHINA 2021",
+                "shuxing2": "中国香港 | 亚洲国际博览馆 "
+            }, {
+                "img": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01ASDpJd2GdSEWXjyjX_!!0-item_pic.jpg",
+                "text": "【长沙】Madilyn Bailey Tastes Like Karma Tour 2020 巡演-长沙站",
+                "piaojia": 380,
+                "seen": false,
+                "riqi": "2020.04.03-12.31",
+                "dizhi": "长沙市 | 46LIVEHOUSE",
+                "shuxing1": "【长沙】Madilyn Bailey Tastes Like Karma Tour 2020 巡演-长沙站",
+                "shuxing2": "长沙市 | 46LIVEHOUSE"
+            }]
+        },
+        {
+            "id": 1,
+            "tabs": "话剧歌剧",
+            "name": "name2",
+            "main": [{
+                "img": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01eOns4h2GdSEq8U2Ea_!!0-item_pic.jpg",
+                "text": "【西安】2020.7.24-28世界经典原版音乐剧《猫》CATS-西安站",
+                "piaojia": 180,
+                "seen": false,
+                "riqi": "2020.07.24-07.28",
+                "dizhi": "西安市 | 别克·陕西大剧院-歌剧厅 ",
+                "shuxing1": "【西安】2020.7.24-28世界经典原版音乐剧《猫》CATS-西安站",
+                "shuxing2": "西安市 | 别克·陕西大剧院-歌剧厅 "
+            }, {
+                "img": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01KKUrV12GdSEWbfLCD_!!0-item_pic.jpg",
+                "text": "【北京】老舍原著*郭麒麟阎鹤祥主演话剧《牛天赐》-天赐家族系列纪念周边",
+                "piaojia": 60,
+                "seen": false,
+                "riqi": "2019.12.26-2020.12.31",
+                "dizhi": "北京市 | 天桥艺术中心-中剧场 ",
+                "shuxing1": "【北京】老舍原著*郭麒麟阎鹤祥主演话剧《牛天赐》-天赐家族系列纪念周边",
+                "shuxing2": "北京市 | 天桥艺术中心-中剧场 "
+
+            }, {
+                "img": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01e00rN12GdSDqpHCTm_!!2251059038.jpg",
+                "text": "【上海】聚橙制作|法语音乐剧《摇滚红与黑》",
+                "piaojia": 80,
+                "seen": false,
+                "riqi": "2020.08.13-08.15",
+                "dizhi": "上海市 | 上汽上海文化广场",
+                "shuxing1": "【上海】聚橙制作|法语音乐剧《摇滚红与黑》",
+                "shuxing2": "上海市 | 上汽上海文化广场"
+            }, {
+                "img": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01ukmFkQ2GdSEAuQKxw_!!2251059038.jpg",
+                "text": "【宁波】阿加莎惊悚悬疑小说改编话剧《无人生还》",
+                "piaojia": 80,
+                "seen": false,
+                "riqi": "2020.08.21-08.22",
+                "dizhi": "宁波市 | 宁波文化广场大剧院",
+                "shuxing1": "【宁波】阿加莎惊悚悬疑小说改编话剧《无人生还》",
+                "shuxing2": "宁波市 | 宁波文化广场大剧院"
+            }, {
+                "img": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN011Qvrzz2GdSE0kYu2I_!!2251059038.png",
+                "text": "【武汉】香港话剧团授权 有趣戏剧作品话剧《最后晚餐》 武汉站",
+                "piaojia": 80,
+                "seen": false,
+                "riqi": "2020.12.03-12.06",
+                "dizhi": "武汉市 | 403国际艺术中心·红椅剧场",
+                "shuxing1": "【武汉】香港话剧团授权 有趣戏剧作品话剧《最后晚餐》 武汉站",
+                "shuxing2": "武汉市 | 403国际艺术中心·红椅剧场"
+            }, {
+                "img": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01NapWK42GdSEf9iVPL_!!2251059038.jpg",
+                "text": "【杭州】陕西人艺经典巨献·话剧《白鹿原》",
+                "piaojia": 280,
+                "seen": false,
+                "riqi": "2020.09.22 周二 19:30",
+                "dizhi": "杭州市 | 余杭大剧院",
+                "shuxing1": "【杭州】陕西人艺经典巨献·话剧《白鹿原》",
+                "shuxing2": "杭州市 | 余杭大剧院"
+            }]
+        }
+
+    ]
+
+}

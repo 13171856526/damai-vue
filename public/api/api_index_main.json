@@ -1,0 +1,390 @@
+{
+    "success": 200,
+    "data": [{
+
+        "title": "演唱会",
+        "main": [{
+            "id": 1,
+            "images": "https://img.alicdn.com/bao/uploaded/i2/2251059038/O1CN01ZYFxKt2GdSEWTMcjm_!!0-item_pic.jpg",
+            "title": "【北京】“My Love刘德华巡回演唱会 2020”官方周边商品",
+            "jiage": 295
+        }],
+        "mainright": [{
+            "images": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01a89g5r2GdSDs44jUJ_!!2251059038.jpg",
+            "title": "【呼和浩特】2020任贤齐“齐迹”巡回演唱会 呼和浩特站",
+            "piaojia": 399,
+            "seen": false,
+            "riqi": "2020.08.01 周六 19:30",
+            "dizhi": "呼和浩特市 | 内蒙古体育馆"
+
+        }, {
+            "images": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01l8LToq2GdSEmSQi2W_!!2251059038.png",
+            "title": "【长沙】【演出延期】一呼万应！失踪人口专场",
+            "piaojia": 70,
+            "seen": false,
+            "riqi": "2020.06.27 周六 20:30",
+            "dizhi": "长沙市 | MAO Livehouse长沙"
+
+
+        }, {
+            "images": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01PVB2712GdSE9RDgYr_!!2251059038.png",
+            "title": "【西安】2020.9.5赤世代 I Need You 演唱会 Live In XI’AN",
+            "piaojia": 180,
+            "seen": false,
+            "riqi": "2020.09.05 周六",
+            "dizhi": "西安市 | 西演LIVE·光圈CLUB "
+
+        }, {
+            "images": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01D5PAMm2GdSEeUIgWO_!!0-item_pic.jpg",
+            "title": "【深圳】曹轩宾「我」2020年巡回演唱会 深圳站",
+            "piaojia": 150,
+            "seen": false,
+            "riqi": "2020.09.25 周五 20:30",
+            "dizhi": "深圳市 | 深圳 HOU LIVE"
+
+        }, {
+            "images": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01CF298x2GdSEeKWT0o_!!0-item_pic.jpg",
+            "title": "GREEN DAY – LIVE IN HONG KONG, CHINA 2021",
+            "piaojia": 588,
+            "seen": false,
+            "riqi": "2021.03.19 周五 20:00",
+            "dizhi": "中国香港 | 亚洲国际博览馆 "
+
+        }, {
+            "images": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN01ASDpJd2GdSEWXjyjX_!!0-item_pic.jpg",
+            "title": "【长沙】Madilyn Bailey Tastes Like Karma Tour 2020 巡演-长沙站",
+            "piaojia": 380,
+            "seen": false,
+            "riqi": "2020.04.03-12.31",
+            "dizhi": "长沙市 | 46LIVEHOUSE"
+
+        }],
+        "mainslide": [{
+            "id": 1,
+            "title": "热门演出排行",
+            "gengduo": "查看全部>>",
+            "list": [{
+                    "index": 1,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 2,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 3,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 4,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 5,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 6,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 7,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 8,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 9,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 10,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }
+
+            ]
+        }]
+    }, {
+
+        "title": "话剧歌剧",
+        "main": [{
+            "id": 1,
+            "images": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01yLR7WL2GdSEe9pxRD_!!2251059038.jpg",
+            "title": "【杭州】孟京辉戏剧作品 摇滚音乐剧《空中花园谋杀案》",
+            "jiage": 180
+        }],
+        "mainright": [{
+            "images": "https://img.alicdn.com/bao/uploaded/i4/2251059038/O1CN01eOns4h2GdSEq8U2Ea_!!0-item_pic.jpg",
+            "title": "【西安】2020.7.24-28世界经典原版音乐剧《猫》CATS-西安站",
+            "piaojia": 180,
+            "seen": false,
+            "riqi": "2020.07.24-07.28",
+            "dizhi": "西安市 | 别克·陕西大剧院-歌剧厅 "
+
+        }, {
+            "images": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01KKUrV12GdSEWbfLCD_!!0-item_pic.jpg",
+            "title": "【北京】老舍原著*郭麒麟阎鹤祥主演话剧《牛天赐》-天赐家族系列纪念周边",
+            "piaojia": 60,
+            "seen": false,
+            "riqi": "2019.12.26-2020.12.31",
+            "dizhi": "北京市 | 天桥艺术中心-中剧场 "
+
+
+        }, {
+            "images": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01e00rN12GdSDqpHCTm_!!2251059038.jpg",
+            "title": "【上海】聚橙制作|法语音乐剧《摇滚红与黑》",
+            "piaojia": 80,
+            "seen": false,
+            "riqi": "2020.08.13-08.15",
+            "dizhi": "上海市 | 上汽上海文化广场"
+
+        }, {
+            "images": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01ukmFkQ2GdSEAuQKxw_!!2251059038.jpg",
+            "title": "【宁波】阿加莎惊悚悬疑小说改编话剧《无人生还》",
+            "piaojia": 80,
+            "seen": false,
+            "riqi": "2020.08.21-08.22",
+            "dizhi": "宁波市 | 宁波文化广场大剧院"
+
+        }, {
+            "images": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN011Qvrzz2GdSE0kYu2I_!!2251059038.png",
+            "title": "【武汉】香港话剧团授权 有趣戏剧作品话剧《最后晚餐》 武汉站",
+            "piaojia": 80,
+            "seen": false,
+            "riqi": "2020.12.03-12.06",
+            "dizhi": "武汉市 | 403国际艺术中心·红椅剧场"
+
+        }, {
+            "images": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01NapWK42GdSEf9iVPL_!!2251059038.jpg",
+            "title": "【杭州】陕西人艺经典巨献·话剧《白鹿原》",
+            "piaojia": 280,
+            "seen": false,
+            "riqi": "2020.09.22 周二 19:30",
+            "dizhi": "杭州市 | 余杭大剧院"
+
+        }],
+        "mainslide": [{
+            "id": 1,
+            "title": "热门演出排行",
+            "gengduo": "查看全部>>",
+            "list": [{
+                    "index": 1,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 2,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 3,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 4,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 5,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 6,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 7,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 8,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 9,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 10,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }
+
+            ]
+        }]
+    }, {
+
+        "title": "体育比赛",
+        "main": [{
+            "id": 1,
+            "images": "https://img.alicdn.com/bao/uploaded/i3/2251059038/O1CN018pZ3EM2GdSE5BlYFb_!!0-item_pic.jpg",
+            "title": "【武汉】2020中国足球协会超级联赛武汉卓尔主场年卡套票",
+            "jiage": 800.00
+        }],
+        "mainright": [{
+            "images": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01azreXu2GdSF9rIkGV_!!2251059038.jpg",
+            "title": "【上海】2020 FORMULA1 中国大奖赛（帽品）",
+            "seen": false,
+            "riqi": "2020.03.11-12.31",
+            "dizhi": "上海市 | 上汽国际赛车场(上海国际赛车场)",
+            "piaojia": 150.00
+
+        }, {
+            "images": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01RSETIQ2GdSEQnonSB_!!2251059038.jpg",
+            "title": "【北京】加速北京跳伞俱乐部高空跳伞体验",
+            "seen": false,
+            "riqi": "2020.04.01-05.31",
+            "dizhi": "北京市 | 北京市平谷区马坊镇通航产业基地 ",
+            "piaojia": 2680.00
+
+        }, {
+            "images": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01bCCNuc2GdSDzL4g7K_!!2251059038.jpg",
+            "title": "【重庆】2020赛季重庆当代力帆足球俱乐部套票",
+            "seen": false,
+            "riqi": "2020.10.31-11.30",
+            "dizhi": "重庆市 | 重庆奥体中心体育场",
+            "piaojia": 500.00
+
+        }, {
+            "images": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01ZusbUY2GdSENL0iIN_!!2251059038.jpg",
+            "title": "【上海】2020 FORMULA1 中国大奖赛（周边衍生品）",
+            "seen": false,
+            "riqi": "2020.03.11-12.31",
+            "dizhi": "上海市 | 上汽国际赛车场(上海国际赛车场) ",
+            "piaojia": 35.00
+
+        }, {
+            "images": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i4/2251059038/O1CN01rCUhkT2GdSDypUD0p_!!2251059038.jpg",
+            "title": "【贵阳】【年票】贵州恒丰足球俱乐部2020赛季中国足球甲级联赛主场赛事",
+            "seen": false,
+            "riqi": "2020.07.31 周五 19:30",
+            "dizhi": "贵阳市 | 贵阳奥体中心体育场",
+            "piaojia": 299
+
+        }, {
+            "images": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01xIWkUp2GdSE3AS8XR_!!2251059038.jpg",
+            "title": "【南京】2020赛季江苏苏宁足球俱乐部全年套票",
+            "seen": false,
+            "riqi": "2020.02.22-10.31",
+            "dizhi": "南京市 | 南京奥体中心体育场",
+            "piaojia": 588.00
+
+        }],
+        "mainslide": [{
+            "id": 1,
+            "title": "热门演出排行",
+            "gengduo": "查看全部>>",
+            "list": [{
+                    "index": 1,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 2,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 3,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 4,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 5,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 6,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 7,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 8,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 9,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 10,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }
+
+            ]
+        }]
+    }, {
+
+        "title": "儿童亲子",
+        "main": [{
+            "id": 1,
+            "images": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01CwqS4B2GdSEun49e3_!!2251059038.jpg",
+            "title": "【深圳】印象观澜湖全息剧",
+            "jiage": 39.90
+        }],
+        "mainright": [{
+            "images": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN01yOsmzi2GdSE5fWGWl_!!2251059038.png",
+            "title": "【南昌】宫崎骏经典· 暖心成长音乐剧《魔女宅急便》",
+            "seen": false,
+            "riqi": "2020.06.20 周六",
+            "dizhi": " 南昌市 | 江西艺术中心大剧院 ",
+            "piaojia": 180
+
+        }, {
+            "images": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01zyqcuX2GdSEjgo9qz_!!2251059038.jpg",
+            "title": "【北京】【适合3-7岁】励步英语价值697元英语启蒙学习大礼，限时免费！",
+            "seen": false,
+            "riqi": "2020.04.09-06.30",
+            "dizhi": "北京市 | 嘉汇中心B座 ",
+            "piaojia": 0
+
+        }, {
+            "images": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i3/2251059038/O1CN01CkM1UE2GdSE1T8BKo_!!2251059038.jpg",
+            "title": "【杭州】「开展营业中」光年之外——航天特展",
+            "seen": false,
+            "riqi": "2020.01.21-07.31",
+            "dizhi": " 杭州市 | 杭州白马湖公园",
+            "piaojia": 50
+
+        }, {
+            "images": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i2/2251059038/O1CN01ZqXlOC2GdSDnj0SyU_!!2251059038.jpg",
+            "title": "【广州】正版授权大型实景舞台剧 《奥特曼：宇宙之光》",
+            "seen": false,
+            "riqi": "2020.07.19 周日",
+            "dizhi": " 广州市 | 广州大剧院歌剧厅 ",
+            "piaojia": 100
+
+        }, {
+            "images": "https://img.alicdn.com/bao/uploaded/i1/2251059038/O1CN01Jek5KK2GdSEkshR3a_!!0-item_pic.jpg",
+            "title": "【南京】「开展营业中」HELLO火星-3D数字太空展 南京站",
+            "seen": false,
+            "riqi": "2019.12.04-2020.05.31",
+            "dizhi": "南京市 | 南京科技馆 ",
+            "piaojia": 80
+
+        }, {
+            "images": "https://img.alicdn.com/bao/uploaded/https://img.alicdn.com/imgextra/i1/2251059038/O1CN015U7rcV2GdSEQ00ZQP_!!2251059038.png",
+            "title": "【昆明】【昆明剧院 · 大剧场】儿童大型实景舞台剧《奥特曼 · 宇宙之光》",
+            "seen": false,
+            "riqi": "2020.11.08 周日 19:30",
+            "dizhi": "昆明市 | 昆明剧院大剧场 ",
+            "piaojia": 80
+
+        }],
+        "mainslide": [{
+            "id": 1,
+            "title": "热门演出排行",
+            "gengduo": "查看全部>>",
+            "list": [{
+                    "index": 1,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 2,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 3,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 4,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 5,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 6,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 7,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 8,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 9,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }, {
+                    "index": 10,
+                    "title": "我吃了太多盐闲的总去想你呀。"
+                }
+
+            ]
+        }]
+    }]
+}

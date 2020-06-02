@@ -1,0 +1,55 @@
+{
+    "data": 200,
+    "Swiper": [{
+            "id": 1,
+            "images": "https://s1.ax1x.com/2020/05/31/t1kuvD.png"
+        },
+        {
+            "id": 2,
+            "images": "https://s1.ax1x.com/2020/05/31/t1kMKe.jpg"
+        },
+        {
+            "id": 2,
+            "images": "https://s1.ax1x.com/2020/05/31/t1klbd.jpg"
+        },
+        {
+            "id": 2,
+            "images": "https://s1.ax1x.com/2020/05/31/t1kQDH.jpg"
+        },
+        {
+            "id": 2,
+            "images": "https://s1.ax1x.com/2020/05/31/t1k3VA.jpg"
+        }
+    ],
+    "NavsList": [
+
+        {
+            "id": 1,
+            "name": "戏剧",
+            "path": "/Xijuilist"
+        },
+        {
+            "id": 2,
+            "name": "体育",
+            "path": "/Xijuilist"
+        },
+        {
+            "id": 3,
+            "name": "亲子",
+            "path": "/Xijuilist"
+        },
+        {
+            "id": 4,
+            "name": "舞蹈古典",
+            "path": "/Xijuilist"
+        },
+        {
+            "id": 5,
+            "name": "摇滚",
+            "path": "/Xijuilist"
+        }
+
+    ]
+
+
+}
